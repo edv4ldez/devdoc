@@ -1,0 +1,166 @@
+{
+  "technologies": [
+    {
+      "name": "React",
+      "type": "JavaScript Library",
+      "image": "/assets/img/react.png",
+      "documentation": "https://react.dev/"
+    },
+    {
+      "name": "Vue",
+      "type": "JavaScript Framework",
+      "image": "/assets/img/vue.png",
+      "documentation": "https://vuejs.org/v2/guide/"
+    },
+    {
+      "name": "Angular",
+      "type": "JavaScript Framework",
+      "image": "/assets/img/angular.png",
+      "documentation": "https://angular.io/docs"
+    },
+    {
+      "name": "Ember",
+      "type": "JavaScript Framework",
+      "image": "/assets/img/ember.png",
+      "documentation": "https://guides.emberjs.com/release/"
+    },
+    {
+      "name": "Svelte",
+      "type": "JavaScript Framework",
+      "image": "/assets/img/svelte.png",
+      "documentation": "https://svelte.dev/docs"
+    },
+    {
+      "name": "Preact",
+      "type": "JavaScript Library",
+      "image": "/assets/img/preact.png",
+      "documentation": "https://preactjs.com/guide/v10/getting-started"
+    },
+    {
+      "name": "HTML",
+      "type": "Markup Language",
+      "image": "/assets/img/html.png",
+      "documentation": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+    },
+    {
+      "name": "CSS",
+      "type": "Style Sheet Language",
+      "image": "/assets/img/css.png",
+      "documentation": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+    },
+    {
+      "name": "JavaScript",
+      "type": "Programming Language",
+      "image": "/assets/img/javascript.png",
+      "documentation": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    },
+    {
+      "name": "TypeScript",
+      "type": "Programming Language",
+      "image": "/assets/img/typescript.png",
+      "documentation": "https://www.typescriptlang.org/docs/"
+    },
+    {
+      "name": "Sass",
+      "type": "Style Sheet Language",
+      "image": "/assets/img/sass.png",
+      "documentation": "https://sass-lang.com/documentation"
+    },
+    {
+      "name": "Less",
+      "type": "Style Sheet Language",
+      "image": "/assets/img/less.png",
+      "documentation": "http://lesscss.org/features/"
+    },
+    {
+      "name": "Stylus",
+      "type": "Style Sheet Language",
+      "image": "/assets/img/stylus.png",
+      "documentation": "https://stylus-lang.com/docs/"
+    },
+    {
+      "name": "PostCSS",
+      "type": "Style Sheet Language",
+      "image": "/assets/img/postcss.png",
+      "documentation": "https://postcss.org/"
+    },
+    {
+      "name": "GraphQL",
+      "type": "Query Language",
+      "image": "/assets/img/graphql.png",
+      "documentation": "https://graphql.org/learn/"
+    },
+    {
+      "name": "Apollo",
+      "type": "GraphQL Client",
+      "image": "/assets/img/apollo.png",
+      "documentation": "https://www.apollographql.com/docs/"
+    },
+    {
+      "name": "Relay",
+      "type": "GraphQL Client",
+      "image": "/assets/img/relay.png",
+      "documentation": "https://relay.dev/docs/en/introduction-to-relay"
+    },
+    {
+      "name": "Webpack",
+      "type": "Module Bundler",
+      "image": "/assets/img/webpack.png",
+      "documentation": "https://webpack.js.org/concepts/"
+    },
+    {
+      "name": "Rollup",
+      "type": "Module Bundler",
+      "image": "/assets/img/rollup.png",
+      "documentation": "https://rollupjs.org/guide/en/"
+    },
+    {
+      "name": "Parcel",
+      "type": "Module Bundler",
+      "image": "/assets/img/parcel.png",
+      "documentation": "https://parceljs.org/docs/"
+    },
+    {
+      "name": "Babel",
+      "type": "JavaScript Compiler",
+      "image": "/assets/img/babel.png",
+      "documentation": "https://babeljs.io/docs/en/"
+    },
+    {
+      "name": "ESLint",
+      "type": "JavaScript Linter",
+      "image": "/assets/img/eslint.png",
+      "documentation": "https://eslint.org/docs/user-guide/getting-started"
+    },
+    {
+      "name": "Prettier",
+      "type": "Code Formatter",
+      "image": "/assets/img/prettier.png",
+      "documentation": "https://prettier.io/docs/en/index.html"
+    },
+    {
+      "name": "Jest",
+      "type": "JavaScript Testing Framework",
+      "image": "/assets/img/jest.png",
+      "documentation": "https://jestjs.io/docs/en/getting-started"
+    },
+    {
+      "name": "Mocha",
+      "type": "JavaScript Testing Framework",
+      "image": "/assets/img/mocha.png",
+      "documentation": "https://mochajs.org/#getting-started"
+    },
+    {
+      "name": "Cypress",
+      "type": "JavaScript Testing Framework",
+      "image": "/assets/img/cypress.png",
+      "documentation": "https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell"
+    },
+    {
+      "name": "Tailwind CSS",
+      "type": "CSS Framework",
+      "image": "/assets/img/tailwindcss.png",
+      "documentation": "https://tailwindcss.com/docs"
+    }
+  ]
+}
